@@ -107,7 +107,9 @@ export const getUserProfile = async (req: Request, res: Response) => {
       bio: user.bio,
       profileImage: user.profileImage,
       createdAt: user.createdAt,
-      userId: user._id
+      userId: user._id,
+      followersCount: user.followersCount,
+      followingCount: user.followingCount
     })
   } catch (error) {
     res.status(500).json({ error: 'Server error' })
@@ -117,17 +119,20 @@ export const getUserProfile = async (req: Request, res: Response) => {
 export const updateUserProfile = async (req: Request, res: Response) => {
   try {
     const { userId } = req.params
-    const { username, email, bio, profileImage: newProfileImage } = req.body
-    
-    let profileImage = ''
+    const { username, email, bio, profileImage } = req.body
+    let profileImageUrl = ''
 
-    if (newProfileImage) {
-      profileImage = await uploadFile(newProfileImage)
+    if (profileImage) {
+      if (profileImage.startsWith('data:image')) {
+        profileImageUrl = await uploadFile(profileImage)
+      } else {
+        profileImageUrl = profileImage
+      }
     }
 
     const updateData: Partial<IUser> = { username, email, bio }
-    if (profileImage) {
-      updateData.profileImage = profileImage
+    if (profileImageUrl) {
+      updateData.profileImage = profileImageUrl
     }
 
     const user = await User.findByIdAndUpdate(

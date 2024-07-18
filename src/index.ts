@@ -6,6 +6,7 @@ import postRoutes from './routes/postRoutes'
 import likeRoutes from './routes/likeRoutes'
 import commentRoutes from './routes/commentRoutes'
 import followRoutes from './routes/followRoutes'
+import exerciseRoutes from './routes/exerciseRoutes'
 import cors from 'cors'
 
 dotenv.config()
@@ -34,6 +35,7 @@ app.use('/api/posts', postRoutes)
 app.use('/api/posts', likeRoutes)
 app.use('/api/posts', commentRoutes)
 app.use('/api/user', followRoutes)
+app.use('/api/exercises', exerciseRoutes)
 
 app.get('/', (req, res) => {
   res.send('Brostagram API')

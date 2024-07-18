@@ -25,7 +25,7 @@ export const updateUserProfileValidator = [
   body('username').optional().isString().withMessage('Username must be a string'),
   body('email').optional().isEmail().withMessage('Invalid email format'),
   body('bio').optional().isString().withMessage('Bio must be a string'),
-  body('profileImage').optional().isString().withMessage('Profile image must be a string')
+  body('profileImage').optional().isString().withMessage('Profile image must be a valid base64 string')
 ]
 
 export const changePasswordValidator = [

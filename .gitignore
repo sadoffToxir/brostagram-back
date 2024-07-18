@@ -23,3 +23,52 @@ Thumbs.db
 
 # Firebase secret keys
 serviceAccountKey.json
+# Ignore compiled Python bytecode
+*.pyc
+
+# Ignore virtual environment
+venv/
+
+# Ignore database files
+db.sqlite3
+
+# Ignore media files
+media/
+
+# Ignore static files
+static/
+
+# Ignore cache files
+__pycache__/
+
+# Ignore temporary files
+*.tmp
+
+# Ignore backup files
+*.bak
+
+# Ignore secret keys
+secret_key.txt
+
+# Ignore configuration files
+config.ini
+
+# Ignore sensitive data
+sensitive_data.txt
+
+# Ignore build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore IDE-specific files
+*.idea/
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Firebase secret keys
+serviceAccountKey.json

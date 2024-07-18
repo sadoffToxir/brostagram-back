@@ -1,0 +1,2480 @@
+[
+  {
+    "id": "21sBicepCurl",
+    "name": "21s Bicep Curl",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "abScissors",
+    "name": "Ab Scissors",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "abWheel",
+    "name": "Ab Wheel",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "aerobics",
+    "name": "Aerobics",
+    "category": "Cardio",
+    "type": "Duration"
+  },
+  {
+    "id": "airBike",
+    "name": "Air Bike",
+    "category": "Cardio",
+    "type": "Duration"
+  },
+  {
+    "id": "arnoldPress(Dumbbell)",
+    "name": "Arnold Press (Dumbbell)",
+    "category": "Shoulders",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "aroundTheWorld",
+    "name": "Around The World",
+    "category": "Chest",
+    "type": "Reps Only"
+  },
+  {
+    "id": "assistedPistolSquats",
+    "name": "Assisted Pistol Squats",
+    "category": "Quadriceps",
+    "type": "Assisted Bodyweight"
+  },
+  {
+    "id": "backExtension(Hyperextension)",
+    "name": "Back Extension (Hyperextension)",
+    "category": "Lower Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "backExtension(Machine)",
+    "name": "Back Extension (Machine)",
+    "category": "Lower Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "backExtension(WeightedHyperextension)",
+    "name": "Back Extension (Weighted Hyperextension)",
+    "category": "Lower Back",
+    "type": "Weighted Bodyweight"
+  },
+  {
+    "id": "ballSlams",
+    "name": "Ball Slams",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "bandPullaparts",
+    "name": "Band Pullaparts",
+    "category": "Shoulders",
+    "type": "Reps Only"
+  },
+  {
+    "id": "battleRopes",
+    "name": "Battle Ropes",
+    "category": "Cardio",
+    "type": "Duration"
+  },
+  {
+    "id": "behindtheBackBicepWristCurl(Barbell)",
+    "name": "Behind the Back Bicep Wrist Curl (Barbell)",
+    "category": "Forearms",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "benchDip",
+    "name": "Bench Dip",
+    "category": "Triceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "benchPress(Barbell)",
+    "name": "Bench Press (Barbell)",
+    "category": "Chest",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "benchPress(Cable)",
+    "name": "Bench Press (Cable)",
+    "category": "Chest",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "benchPress(Dumbbell)",
+    "name": "Bench Press (Dumbbell)",
+    "category": "Chest",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "benchPress(SmithMachine)",
+    "name": "Bench Press (Smith Machine)",
+    "category": "Chest",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "benchPress-CloseGrip(Barbell)",
+    "name": "Bench Press - Close Grip (Barbell)",
+    "category": "Triceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "benchPress-WideGrip(Barbell)",
+    "name": "Bench Press - Wide Grip (Barbell)",
+    "category": "Chest",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "bentOverRow(Band)",
+    "name": "Bent Over Row (Band)",
+    "category": "Upper Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "bentOverRow(Barbell)",
+    "name": "Bent Over Row (Barbell)",
+    "category": "Upper Back",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "bentOverRow(Dumbbell)",
+    "name": "Bent Over Row (Dumbbell)",
+    "category": "Upper Back",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "bicepCurl(Barbell)",
+    "name": "Bicep Curl (Barbell)",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "bicepCurl(Cable)",
+    "name": "Bicep Curl (Cable)",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "bicepCurl(Dumbbell)",
+    "name": "Bicep Curl (Dumbbell)",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "bicepCurl(Machine)",
+    "name": "Bicep Curl (Machine)",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "bicepCurl(Suspension)",
+    "name": "Bicep Curl (Suspension)",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "bicycleCrunch",
+    "name": "Bicycle Crunch",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "bicycleCrunchRaisedLegs",
+    "name": "Bicycle Crunch Raised Legs",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "birdDog",
+    "name": "Bird Dog",
+    "category": "Glutes",
+    "type": "Reps Only"
+  },
+  {
+    "id": "boxJump",
+    "name": "Box Jump",
+    "category": "Quadriceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "boxSquat(Barbell)",
+    "name": "Box Squat (Barbell)",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "boxing",
+    "name": "Boxing",
+    "category": "Cardio",
+    "type": "Duration"
+  },
+  {
+    "id": "bulgarianSplitSquat",
+    "name": "Bulgarian Split Squat",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "burpee",
+    "name": "Burpee",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "burpeeOvertheBar",
+    "name": "Burpee Over the Bar",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "butterfly(PecDeck)",
+    "name": "Butterfly (Pec Deck)",
+    "category": "Chest",
+    "type": "Reps Only"
+  },
+  {
+    "id": "cableCorePalloffPress",
+    "name": "Cable Core Palloff Press",
+    "category": "Abdominals",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "cableCrunch",
+    "name": "Cable Crunch",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "cableFlyCrossovers",
+    "name": "Cable Fly Crossovers",
+    "category": "Chest",
+    "type": "Reps Only"
+  },
+  {
+    "id": "cablePullThrough",
+    "name": "Cable Pull Through",
+    "category": "Glutes",
+    "type": "Reps Only"
+  },
+  {
+    "id": "cableTwist(Downtoup)",
+    "name": "Cable Twist (Down to up)",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "cableTwist(Uptodown)",
+    "name": "Cable Twist (Up to down)",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "calfExtension(Machine)",
+    "name": "Calf Extension (Machine)",
+    "category": "Calves",
+    "type": "Reps Only"
+  },
+  {
+    "id": "calfPress(Machine)",
+    "name": "Calf Press (Machine)",
+    "category": "Calves",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "chestDip",
+    "name": "Chest Dip",
+    "category": "Chest",
+    "type": "Reps Only"
+  },
+  {
+    "id": "chestDip(Assisted)",
+    "name": "Chest Dip (Assisted)",
+    "category": "Chest",
+    "type": "Assisted Bodyweight"
+  },
+  {
+    "id": "chestDip(Weighted)",
+    "name": "Chest Dip (Weighted)",
+    "category": "Chest",
+    "type": "Weighted Bodyweight"
+  },
+  {
+    "id": "chestFly(Band)",
+    "name": "Chest Fly (Band)",
+    "category": "Chest",
+    "type": "Reps Only"
+  },
+  {
+    "id": "chestFly(Dumbbell)",
+    "name": "Chest Fly (Dumbbell)",
+    "category": "Chest",
+    "type": "Reps Only"
+  },
+  {
+    "id": "chestFly(Machine)",
+    "name": "Chest Fly (Machine)",
+    "category": "Chest",
+    "type": "Reps Only"
+  },
+  {
+    "id": "chestFly(Suspension)",
+    "name": "Chest Fly (Suspension)",
+    "category": "Chest",
+    "type": "Reps Only"
+  },
+  {
+    "id": "chestPress(Band)",
+    "name": "Chest Press (Band)",
+    "category": "Chest",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "chestPress(Machine)",
+    "name": "Chest Press (Machine)",
+    "category": "Chest",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "chestSupportedInclineRow(Dumbbell)",
+    "name": "Chest Supported Incline Row (Dumbbell)",
+    "category": "Upper Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "chestSupportedReverseFly(Dumbbell)",
+    "name": "Chest Supported Reverse Fly (Dumbbell)",
+    "category": "Upper Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "chestSupportedYRaise(Dumbbell)",
+    "name": "Chest Supported Y Raise (Dumbbell)",
+    "category": "Shoulders",
+    "type": "Reps Only"
+  },
+  {
+    "id": "chinUp",
+    "name": "Chin Up",
+    "category": "Lats",
+    "type": "Reps Only"
+  },
+  {
+    "id": "chinUp(Assisted)",
+    "name": "Chin Up (Assisted)",
+    "category": "Lats",
+    "type": "Assisted Bodyweight"
+  },
+  {
+    "id": "chinUp(Weighted)",
+    "name": "Chin Up (Weighted)",
+    "category": "Lats",
+    "type": "Weighted Bodyweight"
+  },
+  {
+    "id": "clamshell",
+    "name": "Clamshell",
+    "category": "Glutes",
+    "type": "Reps Only"
+  },
+  {
+    "id": "clapPushUps",
+    "name": "Clap Push Ups",
+    "category": "Chest",
+    "type": "Reps Only"
+  },
+  {
+    "id": "clean",
+    "name": "Clean",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "cleanandJerk",
+    "name": "Clean and Jerk",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "cleanandPress",
+    "name": "Clean and Press",
+    "category": "Full Body",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "cleanPull",
+    "name": "Clean Pull",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "climbing",
+    "name": "Climbing",
+    "category": "Cardio",
+    "type": "Duration"
+  },
+  {
+    "id": "concentrationCurl",
+    "name": "Concentration Curl",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "crossBodyHammerCurl",
+    "name": "Cross Body Hammer Curl",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "crunch",
+    "name": "Crunch",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "crunch(Machine)",
+    "name": "Crunch (Machine)",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "crunch(Weighted)",
+    "name": "Crunch (Weighted)",
+    "category": "Abdominals",
+    "type": "Weighted Bodyweight"
+  },
+  {
+    "id": "curtsyLunge(Dumbbell)",
+    "name": "Curtsy Lunge (Dumbbell)",
+    "category": "Quadriceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "cycling",
+    "name": "Cycling",
+    "category": "Cardio",
+    "type": "Duration"
+  },
+  {
+    "id": "deadBug",
+    "name": "Dead Bug",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "deadHang",
+    "name": "Dead Hang",
+    "category": "Upper Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "deadlift(Band)",
+    "name": "Deadlift (Band)",
+    "category": "Hamstrings",
+    "type": "Reps Only"
+  },
+  {
+    "id": "deadlift(Barbell)",
+    "name": "Deadlift (Barbell)",
+    "category": "Hamstrings",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "deadlift(Dumbbell)",
+    "name": "Deadlift (Dumbbell)",
+    "category": "Hamstrings",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "deadlift(SmithMachine)",
+    "name": "Deadlift (Smith Machine)",
+    "category": "Hamstrings",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "deadlift(Trapbar)",
+    "name": "Deadlift (Trap bar)",
+    "category": "Hamstrings",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "deadliftHighPull",
+    "name": "Deadlift High Pull",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "declineBenchPress(Barbell)",
+    "name": "Decline Bench Press (Barbell)",
+    "category": "Chest",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "declineBenchPress(Dumbbell)",
+    "name": "Decline Bench Press (Dumbbell)",
+    "category": "Chest",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "declineBenchPress(Machine)",
+    "name": "Decline Bench Press (Machine)",
+    "category": "Chest",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "declineBenchPress(SmithMachine)",
+    "name": "Decline Bench Press (Smith Machine)",
+    "category": "Chest",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "declineChestFly(Dumbbell)",
+    "name": "Decline Chest Fly (Dumbbell)",
+    "category": "Chest",
+    "type": "Reps Only"
+  },
+  {
+    "id": "declineCrunch",
+    "name": "Decline Crunch",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "declineCrunch(Weighted)",
+    "name": "Decline Crunch (Weighted)",
+    "category": "Abdominals",
+    "type": "Weighted Bodyweight"
+  },
+  {
+    "id": "declinePushUp",
+    "name": "Decline Push Up",
+    "category": "Chest",
+    "type": "Reps Only"
+  },
+  {
+    "id": "diamondPushUp",
+    "name": "Diamond Push Up",
+    "category": "Triceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "downwardDog",
+    "name": "Downward Dog",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "dragCurl",
+    "name": "Drag Curl",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "dragonFlag",
+    "name": "Dragon Flag",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "dragonfly",
+    "name": "Dragonfly",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "dumbbellRow",
+    "name": "Dumbbell Row",
+    "category": "Upper Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "dumbbellSnatch",
+    "name": "Dumbbell Snatch",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "dumbbellSqueezePress",
+    "name": "Dumbbell Squeeze Press",
+    "category": "Chest",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "dumbbellStepUp",
+    "name": "Dumbbell Step Up",
+    "category": "Quadriceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "elbowtoKnee",
+    "name": "Elbow to Knee",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "ellipticalTrainer",
+    "name": "Elliptical Trainer",
+    "category": "Cardio",
+    "type": "Duration"
+  },
+  {
+    "id": "eZBarBicepsCurl",
+    "name": "EZ Bar Biceps Curl",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "facePull",
+    "name": "Face Pull",
+    "category": "Shoulders",
+    "type": "Reps Only"
+  },
+  {
+    "id": "farmersWalk",
+    "name": "Farmers Walk",
+    "category": "Full Body",
+    "type": "Weight & Distance"
+  },
+  {
+    "id": "fireHydrants",
+    "name": "Fire Hydrants",
+    "category": "Glutes",
+    "type": "Reps Only"
+  },
+  {
+    "id": "floorPress(Barbell)",
+    "name": "Floor Press (Barbell)",
+    "category": "Chest",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "floorPress(Dumbbell)",
+    "name": "Floor Press (Dumbbell)",
+    "category": "Chest",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "floorTricepsDip",
+    "name": "Floor Triceps Dip",
+    "category": "Triceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "flutterKicks",
+    "name": "Flutter Kicks",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "frogJumps",
+    "name": "Frog Jumps",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "frogPumps(Dumbbell)",
+    "name": "Frog Pumps (Dumbbell)",
+    "category": "Glutes",
+    "type": "Reps Only"
+  },
+  {
+    "id": "frontLeverHold",
+    "name": "Front Lever Hold",
+    "category": "Abdominals",
+    "type": "Duration"
+  },
+  {
+    "id": "frontLeverRaise",
+    "name": "Front Lever Raise",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "frontRaise(Band)",
+    "name": "Front Raise (Band)",
+    "category": "Shoulders",
+    "type": "Reps Only"
+  },
+  {
+    "id": "frontRaise(Barbell)",
+    "name": "Front Raise (Barbell)",
+    "category": "Shoulders",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "frontRaise(Cable)",
+    "name": "Front Raise (Cable)",
+    "category": "Shoulders",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "frontRaise(Dumbbell)",
+    "name": "Front Raise (Dumbbell)",
+    "category": "Shoulders",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "frontRaise(Suspension)",
+    "name": "Front Raise (Suspension)",
+    "category": "Shoulders",
+    "type": "Reps Only"
+  },
+  {
+    "id": "frontSquat",
+    "name": "Front Squat",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "fullSquat",
+    "name": "Full Squat",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "gluteBridge",
+    "name": "Glute Bridge",
+    "category": "Glutes",
+    "type": "Reps Only"
+  },
+  {
+    "id": "gluteHamRaise",
+    "name": "Glute Ham Raise",
+    "category": "Hamstrings",
+    "type": "Reps Only"
+  },
+  {
+    "id": "gluteKickback(Machine)",
+    "name": "Glute Kickback (Machine)",
+    "category": "Glutes",
+    "type": "Reps Only"
+  },
+  {
+    "id": "gluteKickbackonFloor",
+    "name": "Glute Kickback on Floor",
+    "category": "Glutes",
+    "type": "Reps Only"
+  },
+  {
+    "id": "gobletSquat",
+    "name": "Goblet Squat",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "goodMorning(Barbell)",
+    "name": "Good Morning (Barbell)",
+    "category": "Hamstrings",
+    "type": "Reps Only"
+  },
+  {
+    "id": "gorillaRow(Kettlebell)",
+    "name": "Gorilla Row (Kettlebell)",
+    "category": "Upper Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "hackSquat",
+    "name": "Hack Squat",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "hackSquat(Machine)",
+    "name": "Hack Squat (Machine)",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "hammerCurl(Band)",
+    "name": "Hammer Curl (Band)",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "hammerCurl(Cable)",
+    "name": "Hammer Curl (Cable)",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "hammerCurl(Dumbbell)",
+    "name": "Hammer Curl (Dumbbell)",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "handstandHold",
+    "name": "Handstand Hold",
+    "category": "Full Body",
+    "type": "Duration"
+  },
+  {
+    "id": "handstandPushUp",
+    "name": "Handstand Push Up",
+    "category": "Shoulders",
+    "type": "Reps Only"
+  },
+  {
+    "id": "hangClean",
+    "name": "Hang Clean",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "hangSnatch",
+    "name": "Hang Snatch",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "hangingKneeRaise",
+    "name": "Hanging Knee Raise",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "hangingLegRaise",
+    "name": "Hanging Leg Raise",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "heelTaps",
+    "name": "Heel Taps",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "hexPress(Dumbbell)",
+    "name": "Hex Press (Dumbbell)",
+    "category": "Chest",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "highKneeSkips",
+    "name": "High Knee Skips",
+    "category": "Quadriceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "highKnees",
+    "name": "High Knees",
+    "category": "Glutes",
+    "type": "Reps Only"
+  },
+  {
+    "id": "hIIT",
+    "name": "HIIT",
+    "category": "Cardio",
+    "type": "Duration"
+  },
+  {
+    "id": "hiking",
+    "name": "Hiking",
+    "category": "Cardio",
+    "type": "Duration"
+  },
+  {
+    "id": "hipAbduction(Machine)",
+    "name": "Hip Abduction (Machine)",
+    "category": "Abductors",
+    "type": "Reps Only"
+  },
+  {
+    "id": "hipAdduction(Machine)",
+    "name": "Hip Adduction (Machine)",
+    "category": "Adductors",
+    "type": "Reps Only"
+  },
+  {
+    "id": "hipThrust",
+    "name": "Hip Thrust",
+    "category": "Glutes",
+    "type": "Reps Only"
+  },
+  {
+    "id": "hipThrust(Barbell)",
+    "name": "Hip Thrust (Barbell)",
+    "category": "Glutes",
+    "type": "Reps Only"
+  },
+  {
+    "id": "hipThrust(Machine)",
+    "name": "Hip Thrust (Machine)",
+    "category": "Glutes",
+    "type": "Reps Only"
+  },
+  {
+    "id": "hollowRock",
+    "name": "Hollow Rock",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "inclineBenchPress(Barbell)",
+    "name": "Incline Bench Press (Barbell)",
+    "category": "Chest",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "inclineBenchPress(Dumbbell)",
+    "name": "Incline Bench Press (Dumbbell)",
+    "category": "Chest",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "inclineBenchPress(SmithMachine)",
+    "name": "Incline Bench Press (Smith Machine)",
+    "category": "Chest",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "inclineChestFly(Dumbbell)",
+    "name": "Incline Chest Fly (Dumbbell)",
+    "category": "Chest",
+    "type": "Reps Only"
+  },
+  {
+    "id": "inclineChestPress(Machine)",
+    "name": "Incline Chest Press (Machine)",
+    "category": "Chest",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "inclinePushUps",
+    "name": "Incline Push Ups",
+    "category": "Chest",
+    "type": "Reps Only"
+  },
+  {
+    "id": "invertedRow",
+    "name": "Inverted Row",
+    "category": "Upper Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "iso-LateralChestPress(Machine)",
+    "name": "Iso-Lateral Chest Press (Machine)",
+    "category": "Chest",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "iso-LateralHighRow(Machine)",
+    "name": "Iso-Lateral High Row (Machine)",
+    "category": "Lats",
+    "type": "Reps Only"
+  },
+  {
+    "id": "iso-LateralLowRow",
+    "name": "Iso-Lateral Low Row",
+    "category": "Lats",
+    "type": "Reps Only"
+  },
+  {
+    "id": "iso-LateralRow(Machine)",
+    "name": "Iso-Lateral Row (Machine)",
+    "category": "Lats",
+    "type": "Reps Only"
+  },
+  {
+    "id": "jackKnife(Suspension)",
+    "name": "Jack Knife (Suspension)",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "jackknifeSitUp",
+    "name": "Jackknife Sit Up",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "jMPress(Barbell)",
+    "name": "JM Press (Barbell)",
+    "category": "Triceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "jumpRope",
+    "name": "Jump Rope",
+    "category": "Cardio",
+    "type": "Duration"
+  },
+  {
+    "id": "jumpShrug",
+    "name": "Jump Shrug",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "jumpSquat",
+    "name": "Jump Squat",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "jumpingJack",
+    "name": "Jumping Jack",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "jumpingLunge",
+    "name": "Jumping Lunge",
+    "category": "Quadriceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "kettlebellClean",
+    "name": "Kettlebell Clean",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "kettlebellCurl",
+    "name": "Kettlebell Curl",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "kettlebellGobletSquat",
+    "name": "Kettlebell Goblet Squat",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "kettlebellHighPull",
+    "name": "Kettlebell High Pull",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "kettlebellShoulderPress",
+    "name": "Kettlebell Shoulder Press",
+    "category": "Full Body",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "kettlebellSnatch",
+    "name": "Kettlebell Snatch",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "kettlebellSwing",
+    "name": "Kettlebell Swing",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "kettlebellTurkishGetUp",
+    "name": "Kettlebell Turkish Get Up",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "kippingPullUp",
+    "name": "Kipping Pull Up",
+    "category": "Lats",
+    "type": "Reps Only"
+  },
+  {
+    "id": "kneeRaiseParallelBars",
+    "name": "Knee Raise Parallel Bars",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "kneelingPulldown(band)",
+    "name": "Kneeling Pulldown (band)",
+    "category": "Lats",
+    "type": "Reps Only"
+  },
+  {
+    "id": "kneelingPushUp",
+    "name": "Kneeling Push Up",
+    "category": "Chest",
+    "type": "Reps Only"
+  },
+  {
+    "id": "l-SitHold",
+    "name": "L-Sit Hold",
+    "category": "Abdominals",
+    "type": "Duration"
+  },
+  {
+    "id": "landmine180",
+    "name": "Landmine 180",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "landmineRow",
+    "name": "Landmine Row",
+    "category": "Upper Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "landmineSquatandPress",
+    "name": "Landmine Squat and Press",
+    "category": "Full Body",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "latPulldown(Band)",
+    "name": "Lat Pulldown (Band)",
+    "category": "Lats",
+    "type": "Reps Only"
+  },
+  {
+    "id": "latPulldown(Cable)",
+    "name": "Lat Pulldown (Cable)",
+    "category": "Lats",
+    "type": "Reps Only"
+  },
+  {
+    "id": "latPulldown(Machine)",
+    "name": "Lat Pulldown (Machine)",
+    "category": "Lats",
+    "type": "Reps Only"
+  },
+  {
+    "id": "latPulldown-CloseGrip(Cable)",
+    "name": "Lat Pulldown - Close Grip (Cable)",
+    "category": "Lats",
+    "type": "Reps Only"
+  },
+  {
+    "id": "lateralBandWalks",
+    "name": "Lateral Band Walks",
+    "category": "Glutes",
+    "type": "Distance Duration"
+  },
+  {
+    "id": "lateralBoxJump",
+    "name": "Lateral Box Jump",
+    "category": "Quadriceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "lateralLegRaises",
+    "name": "Lateral Leg Raises",
+    "category": "Glutes",
+    "type": "Reps Only"
+  },
+  {
+    "id": "lateralLunge",
+    "name": "Lateral Lunge",
+    "category": "Quadriceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "lateralRaise(Band)",
+    "name": "Lateral Raise (Band)",
+    "category": "Shoulders",
+    "type": "Reps Only"
+  },
+  {
+    "id": "lateralRaise(Cable)",
+    "name": "Lateral Raise (Cable)",
+    "category": "Shoulders",
+    "type": "Reps Only"
+  },
+  {
+    "id": "lateralRaise(Dumbbell)",
+    "name": "Lateral Raise (Dumbbell)",
+    "category": "Shoulders",
+    "type": "Reps Only"
+  },
+  {
+    "id": "lateralRaise(Machine)",
+    "name": "Lateral Raise (Machine)",
+    "category": "Shoulders",
+    "type": "Reps Only"
+  },
+  {
+    "id": "lateralSquat",
+    "name": "Lateral Squat",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "legExtension(Machine)",
+    "name": "Leg Extension (Machine)",
+    "category": "Quadriceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "legPress(Machine)",
+    "name": "Leg Press (Machine)",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "legPressHorizontal(Machine)",
+    "name": "Leg Press Horizontal (Machine)",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "legRaiseParallelBars",
+    "name": "Leg Raise Parallel Bars",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "lowCableFlyCrossovers",
+    "name": "Low Cable Fly Crossovers",
+    "category": "Chest",
+    "type": "Reps Only"
+  },
+  {
+    "id": "lowRow(Suspension)",
+    "name": "Low Row (Suspension)",
+    "category": "Upper Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "lunge",
+    "name": "Lunge",
+    "category": "Quadriceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "lunge(Barbell)",
+    "name": "Lunge (Barbell)",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "lunge(Dumbbell)",
+    "name": "Lunge (Dumbbell)",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "lyingKneeRaise",
+    "name": "Lying Knee Raise",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "lyingLegCurl(Machine)",
+    "name": "Lying Leg Curl (Machine)",
+    "category": "Hamstrings",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "lyingLegRaise",
+    "name": "Lying Leg Raise",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "lyingNeckCurls",
+    "name": "Lying Neck Curls",
+    "category": "Neck",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "lyingNeckCurls(Weighted)",
+    "name": "Lying Neck Curls (Weighted)",
+    "category": "Neck",
+    "type": "Weighted Bodyweight"
+  },
+  {
+    "id": "lyingNeckExtension",
+    "name": "Lying Neck Extension",
+    "category": "Neck",
+    "type": "Reps Only"
+  },
+  {
+    "id": "lyingNeckExtension(Weighted)",
+    "name": "Lying Neck Extension (Weighted)",
+    "category": "Neck",
+    "type": "Weighted Bodyweight"
+  },
+  {
+    "id": "meadowsRows(Barbell)",
+    "name": "Meadows Rows (Barbell)",
+    "category": "Upper Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "mountainClimber",
+    "name": "Mountain Climber",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "muscleUp",
+    "name": "Muscle Up",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "negativePullUp",
+    "name": "Negative Pull Up",
+    "category": "Lats",
+    "type": "Reps Only"
+  },
+  {
+    "id": "nordicHamstringsCurls",
+    "name": "Nordic Hamstrings Curls",
+    "category": "Hamstrings",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "obliqueCrunch",
+    "name": "Oblique Crunch",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "oneArmPushUp",
+    "name": "One Arm Push Up",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "overheadCurl(Cable)",
+    "name": "Overhead Curl (Cable)",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "overheadDumbbellLunge",
+    "name": "Overhead Dumbbell Lunge",
+    "category": "Quadriceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "overheadPress(Barbell)",
+    "name": "Overhead Press (Barbell)",
+    "category": "Shoulders",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "overheadPress(Dumbbell)",
+    "name": "Overhead Press (Dumbbell)",
+    "category": "Shoulders",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "overheadPress(SmithMachine)",
+    "name": "Overhead Press (Smith Machine)",
+    "category": "Shoulders",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "overheadSquat",
+    "name": "Overhead Squat",
+    "category": "Full Body",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "pauseSquat(Barbell)",
+    "name": "Pause Squat (Barbell)",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "pendlayRow(Barbell)",
+    "name": "Pendlay Row (Barbell)",
+    "category": "Upper Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "pendulumSquat(Machine)",
+    "name": "Pendulum Squat (Machine)",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "pikePushup",
+    "name": "Pike Pushup",
+    "category": "Triceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "pilates",
+    "name": "Pilates",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "pinwheelCurl(Dumbbell)",
+    "name": "Pinwheel Curl (Dumbbell)",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "pistolSquat",
+    "name": "Pistol Squat",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "plank",
+    "name": "Plank",
+    "category": "Abdominals",
+    "type": "Duration"
+  },
+  {
+    "id": "plankPushup",
+    "name": "Plank Pushup",
+    "category": "Chest",
+    "type": "Duration"
+  },
+  {
+    "id": "plateCurl",
+    "name": "Plate Curl",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "plateFrontRaise",
+    "name": "Plate Front Raise",
+    "category": "Shoulders",
+    "type": "Reps Only"
+  },
+  {
+    "id": "platePress",
+    "name": "Plate Press",
+    "category": "Chest",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "plateSqueeze(SvendPress)",
+    "name": "Plate Squeeze (Svend Press)",
+    "category": "Chest",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "powerClean",
+    "name": "Power Clean",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "powerSnatch",
+    "name": "Power Snatch",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "preacherCurl(Barbell)",
+    "name": "Preacher Curl (Barbell)",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "preacherCurl(Dumbbell)",
+    "name": "Preacher Curl (Dumbbell)",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "preacherCurl(Machine)",
+    "name": "Preacher Curl (Machine)",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "pressUnder",
+    "name": "Press Under",
+    "category": "Full Body",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "pullUp",
+    "name": "Pull Up",
+    "category": "Lats",
+    "type": "Reps Only"
+  },
+  {
+    "id": "pullUp(Assisted)",
+    "name": "Pull Up (Assisted)",
+    "category": "Lats",
+    "type": "Assisted Bodyweight"
+  },
+  {
+    "id": "pullUp(Band)",
+    "name": "Pull Up (Band)",
+    "category": "Lats",
+    "type": "Reps Only"
+  },
+  {
+    "id": "pullUp(Weighted)",
+    "name": "Pull Up (Weighted)",
+    "category": "Lats",
+    "type": "Weighted Bodyweight"
+  },
+  {
+    "id": "pullover(Dumbbell)",
+    "name": "Pullover (Dumbbell)",
+    "category": "Chest",
+    "type": "Reps Only"
+  },
+  {
+    "id": "pullover(Machine)",
+    "name": "Pullover (Machine)",
+    "category": "Chest",
+    "type": "Reps Only"
+  },
+  {
+    "id": "pushPress",
+    "name": "Push Press",
+    "category": "Shoulders",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "pushUp",
+    "name": "Push Up",
+    "category": "Chest",
+    "type": "Reps Only"
+  },
+  {
+    "id": "pushUp(Weighted)",
+    "name": "Push Up (Weighted)",
+    "category": "Chest",
+    "type": "Weighted Bodyweight"
+  },
+  {
+    "id": "pushUp-CloseGrip",
+    "name": "Push Up - Close Grip",
+    "category": "Chest",
+    "type": "Reps Only"
+  },
+  {
+    "id": "rackPull",
+    "name": "Rack Pull",
+    "category": "Lower Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "rearDeltReverseFly(Cable)",
+    "name": "Rear Delt Reverse Fly (Cable)",
+    "category": "Upper Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "rearDeltReverseFly(Dumbbell)",
+    "name": "Rear Delt Reverse Fly (Dumbbell)",
+    "category": "Upper Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "rearDeltReverseFly(Machine)",
+    "name": "Rear Delt Reverse Fly (Machine)",
+    "category": "Upper Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "renegadeRow(Dumbbell)",
+    "name": "Renegade Row (Dumbbell)",
+    "category": "Upper Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "reverseCrunch",
+    "name": "Reverse Crunch",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "reverseCurl(Barbell)",
+    "name": "Reverse Curl (Barbell)",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "reverseCurl(Cable)",
+    "name": "Reverse Curl (Cable)",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "reverseCurl(Dumbbell)",
+    "name": "Reverse Curl (Dumbbell)",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "reverseFlySingleArm(Cable)",
+    "name": "Reverse Fly Single Arm (Cable)",
+    "category": "Upper Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "reverseGripConcentrationCurl",
+    "name": "Reverse Grip Concentration Curl",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "reverseGripLatPulldown(Cable)",
+    "name": "Reverse Grip Lat Pulldown (Cable)",
+    "category": "Upper Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "reverseHyperextension",
+    "name": "Reverse Hyperextension",
+    "category": "Glutes",
+    "type": "Reps Only"
+  },
+  {
+    "id": "reverseLunge",
+    "name": "Reverse Lunge",
+    "category": "Quadriceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "reverseLunge(Barbell)",
+    "name": "Reverse Lunge (Barbell)",
+    "category": "Quadriceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "reverseLunge(Dumbbell)",
+    "name": "Reverse Lunge (Dumbbell)",
+    "category": "Hamstrings",
+    "type": "Reps Only"
+  },
+  {
+    "id": "reversePlank",
+    "name": "Reverse Plank",
+    "category": "Abdominals",
+    "type": "Duration"
+  },
+  {
+    "id": "ringDips",
+    "name": "Ring Dips",
+    "category": "Triceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "romanianDeadlift(Barbell)",
+    "name": "Romanian Deadlift (Barbell)",
+    "category": "Hamstrings",
+    "type": "Reps Only"
+  },
+  {
+    "id": "romanianDeadlift(Dumbbell)",
+    "name": "Romanian Deadlift (Dumbbell)",
+    "category": "Hamstrings",
+    "type": "Reps Only"
+  },
+  {
+    "id": "ropeCableCurl",
+    "name": "Rope Cable Curl",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "ropeStraightArmPulldown",
+    "name": "Rope Straight Arm Pulldown",
+    "category": "Lats",
+    "type": "Reps Only"
+  },
+  {
+    "id": "rowingMachine",
+    "name": "Rowing Machine",
+    "category": "Cardio",
+    "type": "Duration"
+  },
+  {
+    "id": "running",
+    "name": "Running",
+    "category": "Cardio",
+    "type": "Duration"
+  },
+  {
+    "id": "russianTwist(Bodyweight)",
+    "name": "Russian Twist (Bodyweight)",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "russianTwist(Weighted)",
+    "name": "Russian Twist (Weighted)",
+    "category": "Abdominals",
+    "type": "Weighted Bodyweight"
+  },
+  {
+    "id": "scapularPullUps",
+    "name": "Scapular Pull Ups",
+    "category": "Upper Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "seatedCableRow-BarGrip",
+    "name": "Seated Cable Row - Bar Grip",
+    "category": "Upper Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "seatedCableRow-BarWideGrip",
+    "name": "Seated Cable Row - Bar Wide Grip",
+    "category": "Upper Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "seatedCableRow-VGrip(Cable)",
+    "name": "Seated Cable Row - V Grip (Cable)",
+    "category": "Upper Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "seatedCalfRaise",
+    "name": "Seated Calf Raise",
+    "category": "Calves",
+    "type": "Reps Only"
+  },
+  {
+    "id": "seatedChestFlys(Cable)",
+    "name": "Seated Chest Flys (Cable)",
+    "category": "Chest",
+    "type": "Reps Only"
+  },
+  {
+    "id": "seatedDipMachine",
+    "name": "Seated Dip Machine",
+    "category": "Triceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "seatedInclineCurl(Dumbbell)",
+    "name": "Seated Incline Curl (Dumbbell)",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "seatedLateralRaise(Dumbbell)",
+    "name": "Seated Lateral Raise (Dumbbell)",
+    "category": "Shoulders",
+    "type": "Reps Only"
+  },
+  {
+    "id": "seatedLegCurl(Machine)",
+    "name": "Seated Leg Curl (Machine)",
+    "category": "Hamstrings",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "seatedOverheadPress(Barbell)",
+    "name": "Seated Overhead Press (Barbell)",
+    "category": "Shoulders",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "seatedOverheadPress(Dumbbell)",
+    "name": "Seated Overhead Press (Dumbbell)",
+    "category": "Shoulders",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "seatedPalmsUpWristCurl",
+    "name": "Seated Palms Up Wrist Curl",
+    "category": "Forearms",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "seatedRow(Machine)",
+    "name": "Seated Row (Machine)",
+    "category": "Upper Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "seatedShoulderPress(Machine)",
+    "name": "Seated Shoulder Press (Machine)",
+    "category": "Shoulders",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "seatedTricepsPress",
+    "name": "Seated Triceps Press",
+    "category": "Triceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "seatedWristExtension(Barbell)",
+    "name": "Seated Wrist Extension (Barbell)",
+    "category": "Forearms",
+    "type": "Reps Only"
+  },
+  {
+    "id": "shoulderPress(Dumbbell)",
+    "name": "Shoulder Press (Dumbbell)",
+    "category": "Shoulders",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "shoulderPress(MachinePlates)",
+    "name": "Shoulder Press (Machine Plates)",
+    "category": "Shoulders",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "shoulderTaps",
+    "name": "Shoulder Taps",
+    "category": "Shoulders",
+    "type": "Reps Only"
+  },
+  {
+    "id": "shrug(Barbell)",
+    "name": "Shrug (Barbell)",
+    "category": "Traps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "shrug(Cable)",
+    "name": "Shrug (Cable)",
+    "category": "Traps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "shrug(Dumbbell)",
+    "name": "Shrug (Dumbbell)",
+    "category": "Traps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "shrug(Machine)",
+    "name": "Shrug (Machine)",
+    "category": "Traps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "shrug(SmithMachine)",
+    "name": "Shrug (Smith Machine)",
+    "category": "Traps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "sideBend",
+    "name": "Side Bend",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "sideBend(Dumbbell)",
+    "name": "Side Bend (Dumbbell)",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "sidePlank",
+    "name": "Side Plank",
+    "category": "Abdominals",
+    "type": "Duration"
+  },
+  {
+    "id": "singleArmCableCrossover",
+    "name": "Single Arm Cable Crossover",
+    "category": "Chest",
+    "type": "Reps Only"
+  },
+  {
+    "id": "singleArmCableRow",
+    "name": "Single Arm Cable Row",
+    "category": "Upper Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "singleArmCurl(Cable)",
+    "name": "Single Arm Curl (Cable)",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "singleArmLandminePress(Barbell)",
+    "name": "Single Arm Landmine Press (Barbell)",
+    "category": "Shoulders",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "singleArmLatPulldown",
+    "name": "Single Arm Lat Pulldown",
+    "category": "Lats",
+    "type": "Reps Only"
+  },
+  {
+    "id": "singleArmLateralRaise(Cable)",
+    "name": "Single Arm Lateral Raise (Cable)",
+    "category": "Shoulders",
+    "type": "Reps Only"
+  },
+  {
+    "id": "singleArmTricepExtension(Dumbbell)",
+    "name": "Single Arm Tricep Extension (Dumbbell)",
+    "category": "Triceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "singleArmTricepsPushdown(Cable)",
+    "name": "Single Arm Triceps Pushdown (Cable)",
+    "category": "Triceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "singleLegExtensions",
+    "name": "Single Leg Extensions",
+    "category": "Quadriceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "singleLegGluteBridge",
+    "name": "Single Leg Glute Bridge",
+    "category": "Glutes",
+    "type": "Reps Only"
+  },
+  {
+    "id": "singleLegHipThrust",
+    "name": "Single Leg Hip Thrust",
+    "category": "Glutes",
+    "type": "Reps Only"
+  },
+  {
+    "id": "singleLegHipThrust(Dumbbell)",
+    "name": "Single Leg Hip Thrust (Dumbbell)",
+    "category": "Glutes",
+    "type": "Reps Only"
+  },
+  {
+    "id": "singleLegPress(Machine)",
+    "name": "Single Leg Press (Machine)",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "singleLegRomanianDeadlift(Barbell)",
+    "name": "Single Leg Romanian Deadlift (Barbell)",
+    "category": "Hamstrings",
+    "type": "Reps Only"
+  },
+  {
+    "id": "singleLegRomanianDeadlift(Dumbbell)",
+    "name": "Single Leg Romanian Deadlift (Dumbbell)",
+    "category": "Hamstrings",
+    "type": "Reps Only"
+  },
+  {
+    "id": "singleLegStandingCalfRaise",
+    "name": "Single Leg Standing Calf Raise",
+    "category": "Calves",
+    "type": "Reps Only"
+  },
+  {
+    "id": "singleLegStandingCalfRaise(Barbell)",
+    "name": "Single Leg Standing Calf Raise (Barbell)",
+    "category": "Calves",
+    "type": "Reps Only"
+  },
+  {
+    "id": "singleLegStandingCalfRaise(Dumbbell)",
+    "name": "Single Leg Standing Calf Raise (Dumbbell)",
+    "category": "Calves",
+    "type": "Reps Only"
+  },
+  {
+    "id": "singleLegStandingCalfRaise(Machine)",
+    "name": "Single Leg Standing Calf Raise (Machine)",
+    "category": "Calves",
+    "type": "Reps Only"
+  },
+  {
+    "id": "sissySquat(Weighted)",
+    "name": "Sissy Squat (Weighted)",
+    "category": "Quadriceps",
+    "type": "Weighted Bodyweight"
+  },
+  {
+    "id": "sitUp",
+    "name": "Sit Up",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "sitUp(Weighted)",
+    "name": "Sit Up (Weighted)",
+    "category": "Abdominals",
+    "type": "Weighted Bodyweight"
+  },
+  {
+    "id": "skating",
+    "name": "Skating",
+    "category": "Cardio",
+    "type": "Duration"
+  },
+  {
+    "id": "skiing",
+    "name": "Skiing",
+    "category": "Cardio",
+    "type": "Duration"
+  },
+  {
+    "id": "skullcrusher(Barbell)",
+    "name": "Skullcrusher (Barbell)",
+    "category": "Triceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "skullcrusher(Dumbbell)",
+    "name": "Skullcrusher (Dumbbell)",
+    "category": "Triceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "sledPush",
+    "name": "Sled Push",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "snatch",
+    "name": "Snatch",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "snowboarding",
+    "name": "Snowboarding",
+    "category": "Cardio",
+    "type": "Duration"
+  },
+  {
+    "id": "spiderCurl(Barbell)",
+    "name": "Spider Curl (Barbell)",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "spiderCurl(Dumbbell)",
+    "name": "Spider Curl (Dumbbell)",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "spiderman",
+    "name": "Spiderman",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "spinning",
+    "name": "Spinning",
+    "category": "Cardio",
+    "type": "Duration"
+  },
+  {
+    "id": "splitJerk",
+    "name": "Split Jerk",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "splitSquat(Dumbbell)",
+    "name": "Split Squat (Dumbbell)",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "sprints",
+    "name": "Sprints",
+    "category": "Cardio",
+    "type": "Duration"
+  },
+  {
+    "id": "squat(Band)",
+    "name": "Squat (Band)",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "squat(Barbell)",
+    "name": "Squat (Barbell)",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "squat(Bodyweight)",
+    "name": "Squat (Bodyweight)",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "squat(Dumbbell)",
+    "name": "Squat (Dumbbell)",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "squat(Machine)",
+    "name": "Squat (Machine)",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "squat(SmithMachine)",
+    "name": "Squat (Smith Machine)",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "squat(Suspension)",
+    "name": "Squat (Suspension)",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "squatRow",
+    "name": "Squat Row",
+    "category": "Full Body",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "stairMachine",
+    "name": "Stair Machine",
+    "category": "Cardio",
+    "type": "Duration"
+  },
+  {
+    "id": "standingCableGluteKickbacks",
+    "name": "Standing Cable Glute Kickbacks",
+    "category": "Glutes",
+    "type": "Reps Only"
+  },
+  {
+    "id": "standingCalfRaise",
+    "name": "Standing Calf Raise",
+    "category": "Calves",
+    "type": "Reps Only"
+  },
+  {
+    "id": "standingCalfRaise(Barbell)",
+    "name": "Standing Calf Raise (Barbell)",
+    "category": "Calves",
+    "type": "Reps Only"
+  },
+  {
+    "id": "standingCalfRaise(Dumbbell)",
+    "name": "Standing Calf Raise (Dumbbell)",
+    "category": "Calves",
+    "type": "Reps Only"
+  },
+  {
+    "id": "standingCalfRaise(Machine)",
+    "name": "Standing Calf Raise (Machine)",
+    "category": "Calves",
+    "type": "Reps Only"
+  },
+  {
+    "id": "standingCalfRaise(Smith)",
+    "name": "Standing Calf Raise (Smith)",
+    "category": "Calves",
+    "type": "Reps Only"
+  },
+  {
+    "id": "standingLegCurls",
+    "name": "Standing Leg Curls",
+    "category": "Hamstrings",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "standingMilitaryPress(Barbell)",
+    "name": "Standing Military Press (Barbell)",
+    "category": "Shoulders",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "stepUp",
+    "name": "Step Up",
+    "category": "Quadriceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "sternumPullup(Gironda)",
+    "name": "Sternum Pull up (Gironda)",
+    "category": "Lats",
+    "type": "Reps Only"
+  },
+  {
+    "id": "straightArmLatPulldown(Cable)",
+    "name": "Straight Arm Lat Pulldown (Cable)",
+    "category": "Lats",
+    "type": "Reps Only"
+  },
+  {
+    "id": "straightLegDeadlift",
+    "name": "Straight Leg Deadlift",
+    "category": "Hamstrings",
+    "type": "Reps Only"
+  },
+  {
+    "id": "stretching",
+    "name": "Stretching",
+    "category": "Other",
+    "type": "Duration"
+  },
+  {
+    "id": "sumoDeadlift",
+    "name": "Sumo Deadlift",
+    "category": "Hamstrings",
+    "type": "Reps Only"
+  },
+  {
+    "id": "sumoSquat",
+    "name": "Sumo Squat",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "sumoSquat(Barbell)",
+    "name": "Sumo Squat (Barbell)",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "sumoSquat(Dumbbell)",
+    "name": "Sumo Squat (Dumbbell)",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "sumoSquat(Kettlebell)",
+    "name": "Sumo Squat (Kettlebell)",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "superman",
+    "name": "Superman",
+    "category": "Lower Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "swimming",
+    "name": "Swimming",
+    "category": "Cardio",
+    "type": "Duration"
+  },
+  {
+    "id": "tBarRow",
+    "name": "T Bar Row",
+    "category": "Upper Back",
+    "type": "Reps Only"
+  },
+  {
+    "id": "thruster(Barbell)",
+    "name": "Thruster (Barbell)",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "thruster(Kettlebell)",
+    "name": "Thruster (Kettlebell)",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "toeTouch",
+    "name": "Toe Touch",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "toestoBar",
+    "name": "Toes to Bar",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "torsoRotation",
+    "name": "Torso Rotation",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "treadmill",
+    "name": "Treadmill",
+    "category": "Cardio",
+    "type": "Duration"
+  },
+  {
+    "id": "tricepsDip",
+    "name": "Triceps Dip",
+    "category": "Triceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "tricepsDip(Assisted)",
+    "name": "Triceps Dip (Assisted)",
+    "category": "Triceps",
+    "type": "Assisted Bodyweight"
+  },
+  {
+    "id": "tricepsDip(Weighted)",
+    "name": "Triceps Dip (Weighted)",
+    "category": "Triceps",
+    "type": "Weighted Bodyweight"
+  },
+  {
+    "id": "tricepsExtension(Barbell)",
+    "name": "Triceps Extension (Barbell)",
+    "category": "Triceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "tricepsExtension(Cable)",
+    "name": "Triceps Extension (Cable)",
+    "category": "Triceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "tricepsExtension(Dumbbell)",
+    "name": "Triceps Extension (Dumbbell)",
+    "category": "Triceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "tricepsExtension(Machine)",
+    "name": "Triceps Extension (Machine)",
+    "category": "Triceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "tricepsExtension(Suspension)",
+    "name": "Triceps Extension (Suspension)",
+    "category": "Triceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "tricepsKickback(Cable)",
+    "name": "Triceps Kickback (Cable)",
+    "category": "Triceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "tricepsKickback(Dumbbell)",
+    "name": "Triceps Kickback (Dumbbell)",
+    "category": "Triceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "tricepsPressdown",
+    "name": "Triceps Pressdown",
+    "category": "Triceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "tricepsPushdown",
+    "name": "Triceps Pushdown",
+    "category": "Triceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "tricepsRopePushdown",
+    "name": "Triceps Rope Pushdown",
+    "category": "Triceps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "uprightRow(Barbell)",
+    "name": "Upright Row (Barbell)",
+    "category": "Traps",
+    "type": "Reps Only"
+  },
+  {
+    "id": "uprightRow(Cable)",
+    "name": "Upright Row (Cable)",
+    "category": "Shoulders",
+    "type": "Reps Only"
+  },
+  {
+    "id": "uprightRow(Dumbbell)",
+    "name": "Upright Row (Dumbbell)",
+    "category": "Shoulders",
+    "type": "Reps Only"
+  },
+  {
+    "id": "vUp",
+    "name": "V Up",
+    "category": "Abdominals",
+    "type": "Reps Only"
+  },
+  {
+    "id": "walking",
+    "name": "Walking",
+    "category": "Cardio",
+    "type": "Duration"
+  },
+  {
+    "id": "walkingLunge",
+    "name": "Walking Lunge",
+    "category": "Quadriceps",
+    "type": "Distance Duration"
+  },
+  {
+    "id": "walkingLunge(Dumbbell)",
+    "name": "Walking Lunge (Dumbbell)",
+    "category": "Quadriceps",
+    "type": "Distance Duration"
+  },
+  {
+    "id": "wallBall",
+    "name": "Wall Ball",
+    "category": "Full Body",
+    "type": "Reps Only"
+  },
+  {
+    "id": "wallSit",
+    "name": "Wall Sit",
+    "category": "Quadriceps",
+    "type": "Weight & Duration"
+  },
+  {
+    "id": "warmUp",
+    "name": "Warm Up",
+    "category": "Full Body",
+    "type": "Duration"
+  },
+  {
+    "id": "widePullUp",
+    "name": "Wide Pull Up",
+    "category": "Lats",
+    "type": "Reps Only"
+  },
+  {
+    "id": "wristRoller",
+    "name": "Wrist Roller",
+    "category": "Forearms",
+    "type": "Reps Only"
+  },
+  {
+    "id": "yoga",
+    "name": "Yoga",
+    "category": "Full Body",
+    "type": "Duration"
+  },
+  {
+    "id": "zercherSquat",
+    "name": "Zercher Squat",
+    "category": "Quadriceps",
+    "type": "Weight & Reps"
+  },
+  {
+    "id": "zottmanCurl(Dumbbell)",
+    "name": "Zottman Curl (Dumbbell)",
+    "category": "Biceps",
+    "type": "Weight & Reps"
+  }
+]

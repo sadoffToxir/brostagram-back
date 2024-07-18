@@ -12,4 +12,11 @@ const LikeSchema: Schema = new Schema({
   createdAt: { type: Date, default: Date.now },
 })
 
+LikeSchema.set('toJSON', {
+  transform: (doc, ret) => {
+    delete ret.__v
+    return ret
+  }
+})
+
 export default mongoose.model<ILike>('Like', LikeSchema)
