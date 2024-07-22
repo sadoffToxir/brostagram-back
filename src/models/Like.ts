@@ -7,16 +7,9 @@ export interface ILike extends Document {
 }
 
 const LikeSchema: Schema = new Schema({
-  userId: { type: mongoose.Types.ObjectId, required: true, ref: 'User' },
-  postId: { type: mongoose.Types.ObjectId, required: true, ref: 'Post' },
+  userId: { type: mongoose.Types.ObjectId, ref: 'User', required: true },
+  postId: { type: mongoose.Types.ObjectId, ref: 'Post', required: true },
   createdAt: { type: Date, default: Date.now },
-})
-
-LikeSchema.set('toJSON', {
-  transform: (doc, ret) => {
-    delete ret.__v
-    return ret
-  }
 })
 
 export default mongoose.model<ILike>('Like', LikeSchema)
