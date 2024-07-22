@@ -2,6 +2,7 @@ import { Request, Response } from 'express'
 import bcrypt from 'bcryptjs'
 import User, { IUser } from '../models/User'
 import { uploadFile } from '../utils/firebaseStorage'
+import Follow from '../models/Follow'
 import { generateAccessToken, generateRefreshToken, verifyRefreshToken } from '../utils/token'
 import jwt from 'jsonwebtoken'
 
@@ -85,32 +86,59 @@ export const accessToken = async (req: Request, res: Response) => {
   }
 }
 
-export const getUserProfile = async (req: Request, res: Response) => {
+export const searchUsers = async (req: Request, res: Response) => {
+  const { username } = req.query
+  const currentUser = jwt.decode(req.headers.authorization!.split(' ')[1])
+  const userId = currentUser!['id' as keyof typeof currentUser]
+
+  if (!username) {
+    return res.status(400).json({ error: 'Username is required' })
+  }
+
   try {
-    const decodedToken = jwt.decode(req.headers.authorization!.split(' ')[1])
-    
+    const users = await User.find({ username: { $regex: username, $options: 'i' } })
+      .select('username profileImage')
+      .limit(10) // Limit the results for autocomplete
+
+    const followedUsers = await Follow.find({ followerId: userId }).select('followeeId')
+    const followedUserIds = followedUsers.map(follow => follow.followeeId.toString())
+
+    const usersWithFollowStatus = users.map(user => ({
+      ...user.toObject(),
+      isFollowed: followedUserIds.includes(user['_id' as keyof typeof user].toString())
+    }))
+
+    res.status(200).json(usersWithFollowStatus)
+  } catch (error) {
+    res.status(500).json({ error: 'Server error' })
+  }
+}
+
+export const getUserProfile = async (req: Request, res: Response) => {
+  const currentUser = jwt.decode(req.headers.authorization!.split(' ')[1])
+  const currentUserId = currentUser!['id' as keyof typeof currentUser]
+  const userId = req.params.userId
+  
+  try {
     let user
-    
-    if(!req.params.userId){
-      user = await User.findById(decodedToken!['id' as keyof typeof decodedToken]).select('-password')
+    if(userId) {
+      user = await User.findById(userId).select('username profileImage bio email followersCount followingCount')
     } else {
-      user = await User.findById(req.params.userId).select('-password')
+      user = await User.findById(currentUserId).select('username profileImage email bio followersCount followingCount')
     }
-    
     if (!user) {
       return res.status(404).json({ error: 'User not found' })
     }
 
-    res.status(200).json({
-      username: user.username,
-      email: user.email,
-      bio: user.bio,
-      profileImage: user.profileImage,
-      createdAt: user.createdAt,
-      userId: user._id,
-      followersCount: user.followersCount,
-      followingCount: user.followingCount
-    })
+    const isFollowed = await Follow.exists({ followerId: currentUserId, followeeId: userId })
+
+    const userProfile = {
+      ...user.toObject(),
+      userId: user._id || user[userId as keyof typeof user],
+      isFollowed: !!isFollowed
+    }
+
+    res.status(200).json(userProfile)
   } catch (error) {
     res.status(500).json({ error: 'Server error' })
   }

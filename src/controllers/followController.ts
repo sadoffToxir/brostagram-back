@@ -84,14 +84,3 @@ export const getFollowingList = async (req: Request, res: Response) => {
     res.status(500).json({ message: 'Server error' })
   }
 }
-
-export const searchUsers = async (req: Request, res: Response) => {
-  const { username } = req.query
-
-  try {
-    const users = await User.find({ username: new RegExp(username as string, 'i') }).select('username profileImage')
-    res.status(200).json(users)
-  } catch (error) {
-    res.status(500).json({ message: 'Server error' })
-  }
-}
